@@ -1,4 +1,4 @@
-#Titanic Survival Prediction
+Titanic Survival Prediction
 
 This project helps to predict whether a passenger is survived in titanic disaster.
 
